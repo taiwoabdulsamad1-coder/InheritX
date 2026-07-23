@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "fix/pdf-report-generation",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "fix/pdf-report-generation": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "fix/pdf-report-generation",
+    "origin"
+  ]
+}
